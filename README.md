@@ -13,5 +13,5 @@
   
  ##
 <div>
-  ![Snake animation](https://github.com/rafaballerini/joaomarti755/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/joaomarti755/joaomarti755/blob/output/github-contribution-grid-snake.svg)
 </div>
