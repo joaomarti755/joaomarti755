@@ -1,4 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:fbc7d4&height=210&section=header&text=João%20Vitor&fontSize=50&fontColor=ff&animation=fadeIn&fontAlignY=30&desc=Dev%20Full%20Stack&descAlignY=50">
+
 ### Ola eu sou João Vitor
+
 <div align="center">
   <a href="https://github.com/joaomarti755">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomarti755&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -16,5 +19,8 @@
 </div>
   
  ##
+ 
+ <a href="https://www.linkedin.com/in/joão-vitor-altermann-martinelli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "joaomarti755@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   ![Snake animation](https://github.com/joaomarti755/joaomarti755/blob/output/github-contribution-grid-snake.svg)
